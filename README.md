@@ -3,10 +3,10 @@
   CS3520 repository
 ********************************************************************************************************
 ********************************************************************************************************
-    Author        : Kabelo Lebitsa,
-    Email         : kaybeelebitsa23@gmail.com,
-    WhatsApp/Call : +266 50 689 364,
-    Date          : October 30,2022,
+    Author        : Kabelo Lebitsa
+    Email         : kaybeelebitsa23@gmail.com
+    WhatsApp/Call : +266 50 689 364
+    Date          : October 30,2022
     Purpose       : Explanation and guidance on how to run the source codes
 ********************************************************************************************************
 
