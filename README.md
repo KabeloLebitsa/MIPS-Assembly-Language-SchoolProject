@@ -16,7 +16,6 @@
     Download and Install Dev-C++ for running .c source code on your device.
     Download mars for running MIPS assembly code.
             _ 1. Install Java Development Kit for running mars,preferably the latest version.
-            _ 2. Then run mars , with jdk(Java Development Kit)
     Dowload and intall notepad for opening hexadecimal coded machine code, .txt source code
 
     Note:
@@ -28,7 +27,7 @@
 
     On running the codes
           1. Open Dev-C++, then Ctrl+O to open .c source code.Then click F11 to compile and run the code.
-          2. Run mars, then Ctrl+O to open .asm source code.Click F3 to assemble the code...then run it
+          2. Run mars,with jdk(Java Development Kit), then Ctrl+O to open .asm source code.Click F3 to assemble the code...then run it
           3. Open nodepad ,the Ctrl+O to open .txt code
  ******************************************************************************************************* 
  
